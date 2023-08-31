@@ -1,2 +1,3 @@
-# Reynaldo-Perez-Pauli
+# Reynaldo Perez Pauli
 My Personal Repository 
+
